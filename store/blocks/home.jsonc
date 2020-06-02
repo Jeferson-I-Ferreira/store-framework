@@ -22,8 +22,7 @@
   },
   "rich-text#mobile": {
     "props": {
-      "headingLevel3": "# Your Coffee, Your Way ",
-      "headingLevel4": "New Coffee Makers Collection",
+      "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
